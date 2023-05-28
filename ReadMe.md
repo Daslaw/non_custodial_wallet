@@ -14,8 +14,8 @@ Welcome to Non-Custodial Wallet Project!
 + Retrieve Account 
 + Receive Bitcoin
 + Send Bitcoin
-+ Check Balance\n'
-+ Help\n'
++ Check Balance
++ Help
 + Exit
 
 ## Acknowledgments
